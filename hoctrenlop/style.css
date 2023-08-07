@@ -1,0 +1,26 @@
+.header {
+    background-color: rgb(238, 76, 76);
+    color: white;
+    text-align: center;
+}
+
+.header h2 {
+    font-size: 38px;
+}
+
+#text {
+    width: 80%;
+    height: 30px;
+}
+
+.button {
+    padding: 19px;
+}
+
+.button button {
+    height: 35px;
+}
+
+#question {
+    display: none;
+}
